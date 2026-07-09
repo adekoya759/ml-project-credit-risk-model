@@ -111,7 +111,7 @@ Final model performance on the held-out test set (12,497 records):
 ![ROC Curve](ROC.png)
 
 ### Decile Rank-Ordering Analysis
-![Decile Rank-Ordering Analysis](decile.png)
+![Decile Rank-Ordering Analysis](DECILE.png)
 
 ### Feature Importance
 ![Feature Importance](feature_importance.png)
